@@ -6,7 +6,7 @@
 		"Wes Cossick <https://wescossick.com>"
 	],
 	"description": "Dead-simple spell checking in CodeMirror.",
-	"main": ["dist/spell-checker.min.js", "dist/spell-checker.min.css", "dist/en_US.aff", "dist/en_US.dic"],
+	"main": ["src/js/spell-checker.js", "dist/spell-checker.min.css", "dist/en_US.aff", "dist/en_US.dic"],
 	"keywords": [
 		"codemirror",
 		"code",
